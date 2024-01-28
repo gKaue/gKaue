@@ -16,6 +16,6 @@
  
 ### Pra mais sobre mim, me segue nas redes sociais abaixo!
  
-<div> 
-  <a href="https://instagram.com/kue.insta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" align="center"></a>
+<div align="center"> 
+  <a href="https://instagram.com/kue.insta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
