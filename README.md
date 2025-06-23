@@ -1,4 +1,4 @@
-## Welcome to Kauê's profile! 😁
+## Welcome to Kauê's profile! 💜
 
  <div>
    <a href="https://github.com/gKaue">
